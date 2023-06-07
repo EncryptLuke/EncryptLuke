@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EncryptLuke
+- 👋 Hi, I’m @EncryptLuke.
 - 👀 I’m interested in gaming and programming.
 - 🌱 I’m currently improving on my knowledge of  C++, C#, Java, JS and Swift.
 - 📫 How to reach me: Luke .-.#4500
