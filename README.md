@@ -1,4 +1,4 @@
 - 👋 Hey, I'm Luke.
-- 👀 You probably know me from TETR.IO, if we're being honest here. [(profile)](https://ch.tetr.io/u/mochbot)
+- 👀 You probably know me from TETR.IO, if we're being honest here. [(profile)](https://ch.tetr.io/u/luke)
 - 🌱 Currently working on projects such as [MochBot](https://ch.tetr.io/u/mochbot), which you probably know me for too. (the source code is not public)
 - 📫 I share the same username on Discord, if you need to contact me, please reach out to me there.
